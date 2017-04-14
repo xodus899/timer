@@ -2,7 +2,7 @@ $(document).ready(function(){
 	
 
 	$(".countDown").countdown({
-		until: $.countdown.UTCDate(-4, 2017, 2, 24, 17, 0, 0)
+		until: $.countdown.UTCDate(-4, 2018, 2, 24, 17, 0, 0)
 
 	});
 
